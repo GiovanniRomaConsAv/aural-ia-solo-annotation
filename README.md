@@ -19,12 +19,11 @@ validates in real time, and exports typed JSON with
 `riferimento_istruzione` field linking every annotation to 
 its source paragraph in Stockhausen's performance instructions.
 
-### `formschema_version_IV.json` *(coming soon)*
-Complete Formschema annotation export for Version IV, 
-produced by the transcription tool. Version IV is provided 
-as the sample because its cycle A activates the OMISSION 
-semantic resolution, directly demonstrating the semantic 
-instability mechanism described in the paper.
+### `formschema_version_I.json` *(coming soon)*
+Complete Formschema annotation export for Version I, 
+produced by the transcription tool. Version I is provided 
+as the sample as it constitutes the primary reference 
+version for the annotation work.
 
 ### `Manuale_Etichette_Solo.pdf`
 Annotation label manual (in Italian). Defines all label 
