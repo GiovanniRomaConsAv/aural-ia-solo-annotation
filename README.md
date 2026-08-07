@@ -26,19 +26,15 @@ as the sample because its cycle A activates the OMISSION
 semantic resolution, directly demonstrating the semantic 
 instability mechanism described in the paper.
 
-### `label_taxonomy.pdf` *(coming soon)*
-Annotation label taxonomy covering all four domains: 
-Editorial, Formschema, Score, and Manual.
+### `Manuale_Etichette_Solo.pdf`
+Annotation label manual (in Italian). Defines all label 
+categories, controlled vocabularies, attribute types, and 
+decision criteria for the four annotation domains: 
+Editorial, Formschema, Score, and Manual. Designed to 
+ensure consistency across independent annotators and to 
+serve as the primary methodological reference for dataset 
+construction.
 
-### `annotation_manual.pdf` *(in progress)*
-Operational annotation manual. Work in progress — 
-updated incrementally as annotation proceeds.
-
-### `annotation_agreement_manual.pdf` *(in progress)*
-Inter-annotator agreement manual. Defines the annotation 
-criteria, label definitions, and decision rules for each 
-controlled vocabulary, designed to ensure consistency 
-across independent annotators.
 
 ---
 
