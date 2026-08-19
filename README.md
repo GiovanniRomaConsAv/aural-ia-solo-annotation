@@ -29,7 +29,8 @@ Methodological documentation.
 ### Root
 - `formschema_trascrizione.html` — Browser-based transcription tool for the Formschema domain. Open in any modern browser, no installation required. Enforces controlled vocabularies, validates in real time, exports typed JSON with `riferimento_istruzione` field.
 - `Manuale_Etichette_Solo.pdf` — Complete annotation label manual (in Italian). Defines all label categories, controlled vocabularies, attribute types, and decision criteria for all four domains.
-- `formschema_version_I.json` *(coming soon)* — Complete Formschema annotation export for Version I, produced by the transcription tool.
+- `formschema_version_I.json` — Complete Formschema annotation export for Version I, produced by the transcription tool. See KNOWN_LIMITATIONS.md for schema limitations affecting this export.
+- `KNOWN_LIMITATIONS.md` — Status of the tool and declared limitations of this release: schema gaps (perforation timing in Formschema IV–V, third-operator event sequence), single-annotator status, and release roadmap. Read before using the exported data.
 
 ---
 
