@@ -8,7 +8,7 @@ in Stockhausen's Solo (Nr. 19)*. It is not a finished product: the schema
 and the interface are being refined iteratively as transcription surfaces
 notational cases not covered by the initial design.
 
-## Known limitations of this release (v0.1-alpha)
+## Known limitations of this release (v0.2-alpha)
 
 - **Perforation timing (Formschema IV and V).** The schema does not yet
   cover the timing indications that Formschema versions IV and V associate
